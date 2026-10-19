@@ -2,8 +2,8 @@ Hi there, I'm Liutianyou 👋
 
 Incoming Mathematics student at the **University of British Columbia (UBC)**. I specialize in mathematical modeling, statistical computing, and developing production-ready data pipelines.
 
-- 🎓 **Education**: Incoming Undergraduate in Mathematics @ UBC Vancouver
-- 🛠️ **Tech Stack**: Python (Pandas, SciPy, NumPy, Scikit-Learn, Statsmodels), LaTeX (Overleaf), Markdown
+- 🎓 **Education**: Undergraduate in Mathematics and Computer Science @ UBC Vancouver
+- 🛠️ **Tech Stack**: Dr Racket LaTeX (Overleaf), Markdown
 - 💼 **Freelancing**: Quantitative Analysis & Statistical Tutoring on Fiverr / Upwork
 - 🔬 **Interests**: Spatial Statistics, Machine Learning, A/B Testing Diagnostics
 
